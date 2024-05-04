@@ -1,6 +1,6 @@
 
 ![](https://github.com/qainatsaeed/qainatsaeed/blob/main/banner.jpg?raw=true)
-<h2 align="center">Hi I am Qainat 😎<img width="30px" style="vertical-align: middle; margin-top: -10px;" src="https://github.com/AsjadSiddiqui/AsjadSiddiqui/raw/main/wave.gif" /></h2>
+<h2 align="center">Hi I am Qainat 😎</h2>
 
 <p align="center">I'm a Passionate UI/UX designer alongwith a Computer Sciences Student</p>
 
@@ -22,9 +22,7 @@
 <h2>Checkout My Tetris Project 🤓</h2>
 
 
-
-https://github.com/qainatsaeed/qainatsaeed/assets/62955947/23c65b41-eace-424c-b8a2-47848dd50d82
-
+![Tetris Project](https://github.com/qainatsaeed/qainatsaeed/blob/main/tettris.gif?raw=true)
 </div>
 <br />
 
