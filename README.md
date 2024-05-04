@@ -20,10 +20,11 @@
 
 <div style="margin-left: 20px;">
 <h2>Checkout My Tetris Project 🤓</h2>
-<video autoplay muted loop style="width: 100%;">
-  <source src="https://github.com/qainatsaeed/qainatsaeed/raw/main/tettris.mp4?raw=true" type="video/mp4">
-  Your browser does not support playing video.
-</video>
+
+
+
+https://github.com/qainatsaeed/qainatsaeed/assets/62955947/23c65b41-eace-424c-b8a2-47848dd50d82
+
 </div>
 <br />
 
