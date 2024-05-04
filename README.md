@@ -21,7 +21,7 @@
 <div style="margin-left: 20px;">
 <h2>Checkout My Tetris Project 🤓</h2>
 <video autoplay muted loop style="width: 100%;">
-  <source src="https://github.com/qainatsaeed/qainatsaeed/raw/main/tettris.mp4" type="video/mp4">
+  <source src="https://github.com/qainatsaeed/qainatsaeed/raw/main/tettris.mp4?raw=true" type="video/mp4">
   Your browser does not support playing video.
 </video>
 </div>
